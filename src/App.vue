@@ -17,18 +17,7 @@
     }"
   >
     <router-view />
-  </a-layout-content>
-  <!-- <a-layout-content
-    :style="{
-      background: '#fff',
-      padding: '24px',
-      margin: 0,
-      minHeight: '280px',
-      overflow: 'hidden',
-    }"
-  >
-    <router-view />
-  </a-layout-content> -->
+  </a-layout-content> 
 </template>
 <script>
 import { Item } from "ant-design-vue/lib/menu";
